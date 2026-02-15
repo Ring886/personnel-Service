@@ -1,4 +1,4 @@
-package com.personnel.personnelservice;
+package com.ring.personnel;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
